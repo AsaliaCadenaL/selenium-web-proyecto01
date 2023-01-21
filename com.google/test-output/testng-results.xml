@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T20:36:19 PST" name="Default suite" finished-at="2023-01-20T20:36:30 PST" duration-ms="11691">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T20:36:19 PST" name="Default test" finished-at="2023-01-20T20:36:30 PST" duration-ms="11691">
+      <class name="com.google.NewTest">
+        <test-method signature="f()[pri:0, instance:com.google.NewTest@702b8b12]" started-at="2023-01-20T20:36:19 PST" name="f" finished-at="2023-01-20T20:36:30 PST" duration-ms="11654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.google.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
